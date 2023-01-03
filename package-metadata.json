@@ -1,1 +1,10 @@
-{"description": "No description provided", "dependencies": [], "sublime_text": ">=3000", "platforms": ["*"], "url": "https://github.com/euphwes/base-encoder", "version": "2014.06.25.18.24.18"}
+{
+	"description": "No description provided",
+	"dependencies": [],
+	"sublime_text": ">=3000",
+	"platforms": [
+		"*"
+	],
+	"url": "https://github.com/freb/base-encoder",
+	"version": "2014.06.25.18.24.18"
+}
